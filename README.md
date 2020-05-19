@@ -1,6 +1,6 @@
 This app is developed and maintained by -
 ### `Devashish Sharma` 
-Follow Me: [@devashish-sharma](https://github.com/devashish-sharma)
+Follow Me: [@devashish-sharma](https://github.com/devashish-sharma)<br/>
 To Run the App Run the command:
 ### `npm start`
 
