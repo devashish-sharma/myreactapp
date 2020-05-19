@@ -1,4 +1,5 @@
-This app is developed by `Devashish Sharma`
+This app is developed by -
+### `Devashish Sharma` @devashish-sharma (https://github.com/devashish-sharma)
 To Run the App Run the command:
 ### `npm start`
 
