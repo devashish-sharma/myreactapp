@@ -11,6 +11,9 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
